@@ -1,5 +1,5 @@
 //global variables
-var filetext  = "hello";
+var filetext  = "";
 var fileBinding;
 var fileEntry;
 
